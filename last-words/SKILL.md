@@ -1,6 +1,6 @@
 ---
 name: last-words
-description: Manage and deliver final messages to loved ones when the user is unreachable. Use when the user says "我想给我爸妈留下最后一句话" or similar requests to record a final message (text or voice), configure delivery settings (email or WeChat), or check the status of their last-words configuration. Also use for managing voice/audio messages, and for the automated daily check that monitors chat activity and sends warnings at 10/20 days of inactivity, and delivers the message after 30 days. ALSO use when user mentions "最后留言调试模式", "last-words调试模式", "最后留言 开启调试", "最后留言 关闭调试", or "最后留言 调试状态" to manage this skill's debug mode. ALSO use when user wants to configure email settings through chat: "配置最后留言邮箱", "设置最后留言邮箱", "最后留言 配置邮箱", "最后留言 设置邮箱", or "修改最后留言邮箱".
+description: Auto-deliver final messages to loved ones after 30 days of inactivity. Use when user wants to record a final message, configure email delivery, manage voice messages, or check configuration status.
 ---
 
 # Last Words - 最后留言
