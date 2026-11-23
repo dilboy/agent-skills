@@ -1,16 +1,17 @@
 # Agent Skills
 
-A collection of OpenClaw skills for personal automation and productivity.
+A collection of agent skills for personal automation and productivity.
 
 ## Skills
 
 | Skill | Description | Status |
 |-------|-------------|--------|
 | [last-words](./last-words) | Auto-deliver final messages to loved ones after 30 days of inactivity | ✅ Ready |
+| [spot-the-difference](./spot-the-difference) | Create spot-the-difference image pairs with verified answers and batch exports | ✅ Ready (Codex) |
 
 ## Installation
 
-Each skill can be installed independently. See individual skill README for details.
+Each skill can be installed independently. See its README or SKILL.md for details.
 
 ```bash
 # Example: Install last-words skill
@@ -28,7 +29,7 @@ agent-skills/
 │   ├── README.md        # Skill documentation
 │   ├── scripts/         # Python scripts
 │   └── ...
-└── [future-skills]/     # More skills coming...
+└── spot-the-difference/ # Image pairs, answer masks, and exports
 ```
 
 ## Contributing

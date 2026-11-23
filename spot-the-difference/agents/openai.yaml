@@ -1,0 +1,4 @@
+interface:
+  display_name: "找不同关卡生成"
+  short_description: "从原图生成找不同关卡，校验难度并导出成对图片和答案坐标"
+  default_prompt: "用 $spot-the-difference 从原图生成找不同关卡，保留原图顺序并导出答案。"
